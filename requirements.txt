@@ -5,3 +5,4 @@ joblib
 fastapi
 uvicorn
 dvc[s3]
+python-multipart
